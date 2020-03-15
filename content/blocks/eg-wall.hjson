@@ -1,0 +1,12 @@
+name: "Eg Wall"
+description: "A wall made of egs."
+type: Wall
+
+health: 500
+size: 1
+category: defense
+research: copper-wall
+
+requirements: [
+	eg/10
+]

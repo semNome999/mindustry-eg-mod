@@ -1,0 +1,6 @@
+name: "eg-mod"
+displayName: "[gold]Eg Mod"
+author: "sem"
+description: "Eg. Just Eg."
+version: "1.0"
+minGameVersion: "103"

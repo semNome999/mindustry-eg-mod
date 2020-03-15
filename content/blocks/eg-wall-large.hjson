@@ -1,0 +1,12 @@
+name: "Large eg Wall"
+description: "A wall made of egs, but bigger"
+type: Wall
+
+health: 2000
+size: 2
+category: defense
+research: eg-wall
+
+requirements: [
+	eg/50
+]
